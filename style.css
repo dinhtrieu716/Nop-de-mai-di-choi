@@ -1,0 +1,58 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1.6;
+    background-color: rgb(245,245,245);
+}
+.header{
+    text-align: center;
+    color: #fad232;
+    background-color: #b84800;
+    height: 100px;
+    line-height: 100px;
+}
+.header:hover {background-color: #d4580a;}
+.about{
+    text-align: center;
+    color: #fad232;
+    background-color: #b84800;
+    
+}
+.about p {
+    color: white;
+}
+.about:hover {
+    background-color: #d4580a;
+}
+.book-list{
+    text-align: center;
+    color: #fad232;
+    background-color: #b84800;
+}
+.book-list img {
+    height: 272px; ;
+    width: 186px; ;
+}
+.event:hover {
+    background-color: #d4580a;
+}
+.book-list ul {
+    list-style: none;
+}
+.book-list:hover {background-color: #d4580a;}
+.event{
+text-align: center;
+color: #fad232;
+background-color: #b84800;
+}
+.event p {
+    color: white;
+
+}
+.event button {
+    background-color: rgb(189, 189, 23);
+    color: white;
+    border: none;
+}
+.event button:hover {
+    background-color: yellow;
+}
